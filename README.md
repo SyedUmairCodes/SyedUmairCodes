@@ -18,9 +18,9 @@ I am a Full-stack Web Developer who is exploring different Technologies while he
 
 💬 You can ask me about Full Stack Development, Cloud, Linux, and any Tech-related stuff.
 
-**Connect with me: **
+**Connect with me:**
 <a href="https://www.linkedin.com/in/syedumaircodes/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" /></a><a href="twitter.com/SyedUmairCodes">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" /></a><a href="https://www.twitter.com/SyedUmairCodes">
 <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=Twitter" />
 </a>
 
@@ -59,7 +59,4 @@ I am a Full-stack Web Developer who is exploring different Technologies while he
 ### My Github Stats 🌍
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedUmairCodes&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedUmairCodes&layout=compact)](https://github.com/SyedUmairCodes/github-readme-stats)
-
-
-
 ---
