@@ -18,7 +18,7 @@ I am a Full-stack Web Developer who is exploring different Technologies while he
 
 💬 You can ask me about Full Stack Development, Cloud, Linux, and any Tech-related stuff.
 
-**Connect with me**
+**Connect with me: **
 <a href="linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" /></a><a href="twitter.com/SyedUmairCodes">
 <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=Twitter" />
@@ -52,8 +52,7 @@ I am a Full-stack Web Developer who is exploring different Technologies while he
 <img src="http://img.shields.io/badge/-Strapi-8e75ff?style=flat&logo=strapi&logoColor=white">
 ### Other Languages and Tools that I know
 
-<img src="https://img.shields.io/badge/-Python-1572B6?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Python-1572B6?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 
 ---
 
