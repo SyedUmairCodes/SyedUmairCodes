@@ -19,7 +19,7 @@ I am a Full-stack Web Developer who is exploring different Technologies while he
 💬 You can ask me about Full Stack Development, Cloud, Linux, and any Tech-related stuff.
 
 **Connect with me: **
-<a href="linkedin.com/">
+<a href="https://www.linkedin.com/in/syedumaircodes/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" /></a><a href="twitter.com/SyedUmairCodes">
 <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=Twitter" />
 </a>
@@ -58,12 +58,8 @@ I am a Full-stack Web Developer who is exploring different Technologies while he
 
 ### My Github Stats 🌍
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedUmairCodes&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedUmairCodes&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedUmairCodes&layout=compact)](https://github.com/SyedUmairCodes/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedUmairCodes&layout=compact)](https://github.com/SyedUmairCodes/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyedUmairCodes&repo=self-taught-web-developer)](https://github.com/SyedUmairCodes/self-taught-web-developer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyedUmairCodes&repo=Nxtportfolio)](https://github.com/SyedUmairCodes/Nxtportfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyedUmairCodes&repo=simple-recipes-gatsby)](https://github.com/SyedUmairCodes/simple-recipes-gatsby)
 
 ---
