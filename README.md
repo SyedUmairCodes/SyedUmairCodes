@@ -21,8 +21,9 @@ I am a Full-stack Web Developer who is exploring different Technologies while he
 **Connect with me:**
 <a href="https://www.linkedin.com/in/syedumaircodes/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" /></a><a href="https://www.twitter.com/SyedUmairCodes">
-<img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=Twitter" />
+<img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=Twitter" /></a><img src="https://img.shields.io/badge/Email-c5221f?style=flat&logo=gmail&logoColor=white" />
 </a>
+
 
 ---
 
