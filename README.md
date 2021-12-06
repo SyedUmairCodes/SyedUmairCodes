@@ -1,11 +1,6 @@
 ### Hey! Umair here 👋
 
 ---
-
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
-</p> -->
-
 I am a Full-stack Web Developer who is exploring different Technologies while helping others learn to code.
 
 🌱 I’m currently studying Computer Science at the Virtual University of Pakistan.
@@ -21,7 +16,8 @@ I am a Full-stack Web Developer who is exploring different Technologies while he
 **Connect with me:**
 <a href="https://www.linkedin.com/in/syedumaircodes/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" /></a><a href="https://www.twitter.com/SyedUmairCodes">
-<img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=Twitter" /></a><img src="https://img.shields.io/badge/Email-c5221f?style=flat&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=Twitter" /></a><a href="mailto:syedumairali.617@gmail.com">
+<img src="https://img.shields.io/badge/Email-c5221f?style=flat&logo=gmail&logoColor=white" />
 </a>
 
 
