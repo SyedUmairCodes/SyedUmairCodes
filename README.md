@@ -1,4 +1,4 @@
-[![Header]](./header.png)
+![Header](./header.png)
 <h1 align="center">Hi 👋, I'm Syed Umair Ali</h1>
 <h3 align="center">A software and AI engineer from Pakistan</h3>
 
