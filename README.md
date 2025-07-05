@@ -1,34 +1,49 @@
-# 👋 Hi, I'm Syed Umair Ali
+<br clear="both">
 
-Computer Science Graduate | Software Engineer | Cloud & Data Enthusiast
+<h1 align="center">Hey 👋 I'm Umair</h1>
 
-Welcome to my GitHub! I’m a passionate developer who believes in building things that matter. My journey in tech began with curiosity and turned into a mission: to create, solve, and grow. Whether it's deploying scalable cloud solutions, building frontend apps, or diving into AI and data science, I bring commitment, clarity, and consistency to my work.
+###
 
-## 🚀 What I'm Working On
+<p align="left">My name is Syed Umair Ali and I'm a Software Engineer from Pakistan. I currently work as a junior web developer at a remote company where I spend my time building high-perfromance web applications using FastAPI, Django, and React.<br><br>I'm a multi-cloud certified cloud engineer as well and currently learning AI and data engineering.</p>
 
-- A cross-platform and minimal markdown-editor.
-- A appointment booking system for small clinics.
-- Growing my social media.
-- Open to collaborations, client work, and startup opportunities
+###
 
-## 🛠️ Tech Stack & Tools
+<h2 align="left">About me</h2>
 
-- **Languages:** JavaScript, Python, and SQL.
-- **Frameworks & Libraries:** Astro, React, Next.js, TailwindCSS, Node.js
-- **Cloud & DB:** Google Cloud Platform, PostgreSQL, MongoDB
+###
 
-## 📚 Certifications & Achievements
+<p align="left">✨ I'm trying to make more written content<br>📚 I'm currently Spark, Docker, Python, and SQL<br>🎯 Goals: Be a Data or AI Engineer before next year.<br>🎲 Fun fact: I love sharing my knowledge and learnings.</p>
 
-- Google Cloud Associate Cloud Engineer
-- McKinsey Forward Graduate
-- Aspire Alumni
+###
 
-## 📫 Let's Connect
+<h2 align="left">I code with</h2>
 
-- [LinkedIn](https://www.linkedin.com/in/syedumaircodes/)
-- [personal website](bit.ly/syedumaircodes)
-- 📬 Email: `syedumairali.617@gmail.com`
+###
 
----
+<br clear="both">
 
-Thanks for stopping by! ⭐ If you like what I do, feel free to follow or connect.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
